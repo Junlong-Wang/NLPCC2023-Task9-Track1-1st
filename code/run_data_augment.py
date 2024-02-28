@@ -39,10 +39,10 @@ def exchange_position(reply):
 # 回译法
 def back_translate(reply):
     try:
-        en_reply = baidu_translate(content=reply, appid='20230526001690189', secretKey='n_AZizmkeKkExLysOLZx', t_from='zh',
+        en_reply = baidu_translate(content=reply, appid='xxxx', secretKey='xxx', t_from='zh',
                                t_to='en')
         time.sleep(1)
-        pseudo_reply = baidu_translate(content=en_reply, appid='20230526001690189', secretKey='n_AZizmkeKkExLysOLZx', t_from='en',
+        pseudo_reply = baidu_translate(content=en_reply, appid='xxxx', secretKey='xxx', t_from='en',
                                t_to='zh')
 
         # 翻译结果和原来一样
