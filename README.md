@@ -11,5 +11,5 @@ We used the following strategies to address this task：
 * Data augmentation.
 * Linear Regression for Blending Ensemble.
 ## Experiment Results
-[https://github.com/Junlong-Wang/NLPCC2023-Task9-Track1-1st/blob/main/%E7%AD%96%E7%95%A5%E6%8C%87%E6%A0%87.png](strategy-results)
+![strategy-results](https://github.com/Junlong-Wang/NLPCC2023-Task9-Track1-1st/blob/main/%E7%AD%96%E7%95%A5%E6%8C%87%E6%A0%87.png)
 [https://github.com/Junlong-Wang/NLPCC2023-Task9-Track1-1st/blob/main/%E9%9B%86%E6%88%90%E6%8C%87%E6%A0%87.png](ensemble-results)
